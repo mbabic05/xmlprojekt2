@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ponuda.xsl"?>
+<oprema>
+  <proizvod>
+    <naziv>Rival boksačke rukavice</naziv>
+    <kategorija>Rukavice</kategorija>
+    <opis>Kvalitetne boksačke rukavice marke Rival za trening, rad na vreći i sparing. Pružaju dobru zaštitu šake i stabilnost zapešća.</opis>
+    <cijena valuta="EUR">89.99</cijena>
+    <slika>slike/rivalrukavicer.webp</slika>
+  </proizvod>
+
+  <proizvod>
+    <naziv>Nike HyperKO 3 boksačke cipele</naziv>
+    <kategorija>Obuća</kategorija>
+    <opis>Lagane boksačke cipele Nike HyperKO 3 namijenjene brzom kretanju u ringu, stabilnosti i čvrstom držanju stopala.</opis>
+    <cijena valuta="EUR">179.99</cijena>
+    <slika>slike/hyperko.jpg</slika>
+  </proizvod>
+
+  <proizvod>
+    <naziv>Bandaže za boks</naziv>
+    <kategorija>Zaštita</kategorija>
+    <opis>Elastične bandaže za zaštitu šaka i zapešća tijekom treninga. Pogodne za rad na vreći, fokuserima i sparing.</opis>
+    <cijena valuta="EUR">11.99</cijena>
+    <slika>slike/bandaze.jpg</slika>
+  </proizvod>
+</oprema>
